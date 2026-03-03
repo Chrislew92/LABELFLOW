@@ -1,5 +1,7 @@
 # LABELFLOW
 
+[Download latest release](https://github.com/Chrislew92/LABELFLOW/releases/latest)
+
 Lightweight desktop tool for automated PDF-to-label generation.
 
 ---
